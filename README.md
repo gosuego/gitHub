@@ -5,6 +5,8 @@
 
 ## 커밋 메세지 정리
 
+![demo](./images/values.png)
+
 - feat: 페이지(html), 함수(js)가 새로 추가됨
 - fix: 페이지(html), 함수(js)가 수정됨
 - refactor: 페이지(html), 함수(js) 가 필요없어서 삭제하거나, 이름이 마음에 안들어서 바꿈
