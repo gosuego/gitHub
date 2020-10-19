@@ -15,7 +15,7 @@
 
 ## 참고 링크
 
-[gist.github.com](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
-[seesparkbox.com](https://seesparkbox.com/foundry/semantic_commit_messages)
-[conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
-[karma-runner](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
+- [gist.github.com](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
+- [seesparkbox.com](https://seesparkbox.com/foundry/semantic_commit_messages)
+- [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
+- [karma-runner](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
