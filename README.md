@@ -15,6 +15,12 @@
 - test: 테스트 코드를 추가, 수정 삭제함
 - chore: 그외 기타
 
+## 커밋 메시지 자주 쓰는 동사
+
+- 추가(Add)
+- 수정(Update)
+- 삭제(Delete)
+
 ## 참고 링크
 
 - [gist.github.com](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
