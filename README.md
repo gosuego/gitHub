@@ -21,6 +21,13 @@
 - 수정(Update)
 - 삭제(Delete)
 
+## 예시
+- [delete]: Delete plus function from practice/prac03/index.js
+- [style]: Add practice/background.js
+- [fix]: Add meta property to index.html
+- [docs]: Update README.md
+- [feat]: Connect weather API
+
 ## 참고 링크
 
 - [gist.github.com](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716)
