@@ -1,6 +1,6 @@
 # Semantic Commit Messages
 
-- 검색하게 편하도록 태그는 []:
+- 검색하기 편하도록 태그는 []:
 - 커밋 메시지의 시작은 영어 대문자 동사로 시작.
 
 ## 커밋 메세지 정리
@@ -22,7 +22,7 @@
 - 삭제(Delete)
 
 ## 예시
-- [delete]: Delete plus function from practice/prac03/index.js
+- [refactor]: Delete plus function from practice/prac03/index.js
 - [style]: Add practice/background.js
 - [fix]: Add meta property to index.html
 - [docs]: Update README.md
