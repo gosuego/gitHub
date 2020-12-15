@@ -34,3 +34,9 @@
 - [seesparkbox.com](https://seesparkbox.com/foundry/semantic_commit_messages)
 - [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
 - [karma-runner](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
+
+------
+### 오답노트
+
+- 파일을 삭제했는데 git으로 파일을 가져올 수 있나요? pull로는 Already up to date라고 떠요 ㅠ 
+- commit을 했는데 이전 버전으로 바꾸고 거기서 branch를 만들어서 작업하고 싶어요 기존거는 냅두고 어떻게 할 수 있을까요? 순서 정리가 안돼요
